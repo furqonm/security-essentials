@@ -9,7 +9,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Video material dari AWS untuk memperkuat konsep dasar security di AWS Cloud. Materi ini cocok untuk pemula dan terdapat beberapa demo yang ditampilkan.
 
 ### 2. Video Demo Lab
-- [AWS Security Essentials](http://dfr20cpm485ln.cloudfront.net/SecEss_HLS_index.html)
+- [AWS Security Essentials](https://bit.ly/secess-labs)
 
     > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
 
