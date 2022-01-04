@@ -6,7 +6,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ### 1. AWS Course: Fundamental Level
 - [AWS Security Fundamentals (Second Edition)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/48/aws-security-fundamentals-second-edition)
 
-    > Video material dari AWS untuk memperkuat konsep dasar security di AWS Cloud. Materi ini cocok untuk pemula dan terdapat beberapa demo yang ditampilkan.
+    > Video material dari AWS untuk memperkuat konsep dasar security di AWS Cloud. Materi ini cocok untuk pemula.
 
 ### 2. Video Demo Lab
 - [AWS Security Essentials](https://bit.ly/secess-labs)
@@ -19,7 +19,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
 
 ### 4. Step-by-Step Tutorials
-- [Well-Architected Labs](https://www.wellarchitectedlabs.com/security/)
+- [Well-Architected Labs (Security)](https://www.wellarchitectedlabs.com/security/)
 - [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
 
     > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
