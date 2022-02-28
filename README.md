@@ -4,7 +4,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Additional Materials
 ### 1. AWS Course: Fundamental Level
-- [AWS Security Fundamentals (Second Edition)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/48/aws-security-fundamentals-second-edition)
+- [AWS Security Fundamentals (Second Edition)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition)
 
     > Video material dari AWS untuk memperkuat konsep dasar security di AWS Cloud. Materi ini cocok untuk pemula.
 
