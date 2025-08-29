@@ -6,7 +6,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 ### 1. AWS Course: Fundamental Level
 - [AWS Security Fundamentals Second Edition](https://skillbuilder.aws/learn/S2N5PM41ZK/aws-security-fundamentals-second-edition/E71QQGTCRZ)
 
-    > Video material from AWS to reinforce fundamental security concepts in the AWS Cloud. This material is suitable for beginners.
+    > Video material from AWS to reinforce fundamental security concepts in the AWS Cloud. This material is suitable for beginners.
 
 ### 2. Video Demo Lab
 - [AWS Security Essentials](https://bit.ly/secess-labs)
