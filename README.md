@@ -1,25 +1,19 @@
 # AWS Security Essentials
-_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak AWS, meskipun beberapa link dan material bersumber resmi dari AWS._
+_[DISCLAIMER] The links and materials provided here are for supplementary study purposes. These self-documented study resources do not represent official information from AWS, although some links and materials are from official AWS sources._
 
 ---
 ## Additional Materials
 ### 1. AWS Course: Fundamental Level
-- [AWS Security Fundamentals (Second Edition)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/48/aws-security-fundamentals-second-edition)
+- [AWS Security Fundamentals Second Edition](https://skillbuilder.aws/learn/S2N5PM41ZK/aws-security-fundamentals-second-edition/E71QQGTCRZ)
 
-    > Video material dari AWS untuk memperkuat konsep dasar security di AWS Cloud. Materi ini cocok untuk pemula.
+    > Video material from AWS to reinforce fundamental security concepts in the AWS Cloud. This material is suitable for beginners.
 
 ### 2. Video Demo Lab
 - [AWS Security Essentials](https://bit.ly/secess-labs)
 
-    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
+    > Video recordings of lab walkthroughs that you can watch to refresh what you have previously worked on.
 
-### 3. Free Labs
-- [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
-
-    > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
-
-### 4. Step-by-Step Tutorials
+### 3. Step-by-Step Tutorials
 - [Well-Architected Labs (Security)](https://www.wellarchitectedlabs.com/security/)
-- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
 
-    > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
+    > A collection of lab guides to be completed in your own AWS account. Please be mindful of potential costs when performing the steps, as these labs run in your personal AWS account. Pay close attention to the final **tear down** or **clean up** steps, which detail the resources you need to terminate in your account.
